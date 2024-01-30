@@ -2,6 +2,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Petersen"
   given-names: "F.T."
-title: "DataDrivenMultiFidelityTechniquesForPDEs"
-date-released: 2024-01-12
-url: "https://github.com/FrejaTerpPetersen/DataDrivenMultiFidelityTechniquesForPDEs"
+title: "MFcnn"
+date-released: 2024-01-30
+url: "https://github.com/FrejaTerpPetersen/MFcnn"
